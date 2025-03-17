@@ -1,2 +1,2 @@
 # ML-Projects-for-finance-
-ML project for finance use cases.
+ML projects for finance use cases.
